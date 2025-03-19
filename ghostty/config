@@ -1,0 +1,13 @@
+# Ghostty Configuration File
+
+font-family = "UbuntuMono Nerd Font Mono"
+font-size = 14
+
+cursor-style = "block"
+cursor-style-blink = true
+
+background-opacity = 0.9
+
+copy-on-select = true
+
+theme = catppuccin-frappe
